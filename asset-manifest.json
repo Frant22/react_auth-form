@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6a9be24.chunk.css",
-    "main.js": "/static/js/main.155a5932.chunk.js",
-    "main.js.map": "/static/js/main.155a5932.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5b47cb6d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5b47cb6d.js.map",
-    "static/js/2.c0a03b1b.chunk.js": "/static/js/2.c0a03b1b.chunk.js",
-    "static/js/2.c0a03b1b.chunk.js.map": "/static/js/2.c0a03b1b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f6a9be24.chunk.css.map": "/static/css/main.f6a9be24.chunk.css.map",
-    "static/js/2.c0a03b1b.chunk.js.LICENSE.txt": "/static/js/2.c0a03b1b.chunk.js.LICENSE.txt"
+    "main.css": "/react_auth-form/static/css/main.f6a9be24.chunk.css",
+    "main.js": "/react_auth-form/static/js/main.155a5932.chunk.js",
+    "main.js.map": "/react_auth-form/static/js/main.155a5932.chunk.js.map",
+    "runtime-main.js": "/react_auth-form/static/js/runtime-main.f86b96bc.js",
+    "runtime-main.js.map": "/react_auth-form/static/js/runtime-main.f86b96bc.js.map",
+    "static/js/2.c0a03b1b.chunk.js": "/react_auth-form/static/js/2.c0a03b1b.chunk.js",
+    "static/js/2.c0a03b1b.chunk.js.map": "/react_auth-form/static/js/2.c0a03b1b.chunk.js.map",
+    "index.html": "/react_auth-form/index.html",
+    "static/css/main.f6a9be24.chunk.css.map": "/react_auth-form/static/css/main.f6a9be24.chunk.css.map",
+    "static/js/2.c0a03b1b.chunk.js.LICENSE.txt": "/react_auth-form/static/js/2.c0a03b1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b47cb6d.js",
+    "static/js/runtime-main.f86b96bc.js",
     "static/js/2.c0a03b1b.chunk.js",
     "static/css/main.f6a9be24.chunk.css",
     "static/js/main.155a5932.chunk.js"
