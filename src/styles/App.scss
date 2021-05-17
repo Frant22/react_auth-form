@@ -1,0 +1,49 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  max-width: 360px;
+  height: 578px;
+
+  padding: 24px 48px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: #fff;
+  border-radius: 10px;
+
+  &__heading {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  &__signup {
+    display: flex;
+    font-size: 16px;
+  }
+
+  &__signin {
+    background-position: 7%;
+    background-repeat: no-repeat;
+
+    &--google {
+      background-image: url('../images/Google_logo.png');
+    }
+
+    &--microsoft {
+      background-image: url('../images/Microsoft_logo.png');
+    }
+  }
+
+  &__separation {
+    font-size: 18px;
+    color: #8C93A3;
+
+    display: flex;
+    width: 264px;
+    justify-content: space-between;
+  }
+}
